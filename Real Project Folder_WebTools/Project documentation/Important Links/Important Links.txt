@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/20310626/phpmyadmin-1075-incorrect-table-definition-there-can-be-only-one-auto-column/20310665
