@@ -52,5 +52,7 @@ After clicking on  'Our menu', guests can see the menu as :
 
 ![alt text](https://github.com/snehalmundhe10/Online-Ordering-System-for-Fast-Food-Restaurant/blob/master/images/foodItems.PNG "foodItems")
 
+After clicking on icon the food item can be viewed as follows:
 
+![alt text](https://github.com/snehalmundhe10/Online-Ordering-System-for-Fast-Food-Restaurant/blob/master/images/view.PNG "view")
 
