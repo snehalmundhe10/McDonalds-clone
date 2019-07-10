@@ -66,12 +66,12 @@ After clicking on icon the food item can be viewed as follows:
 
 ### USER ROLES & FUNCTIONALITIES
 #### Functionalities Performed:
-1.An admin should login into its page and access the food inventory.
+1. An admin should login into its page and access the food inventory.
 2. An admin should modify the food items inventory, admin should create, delete, view and
 update the food inventory.
 3. An admin should logout from the admin page.
 4. A user should see the food items list modified by the admin.
-5 A user should view detail information of the food item.
+5. A user should view detail information of the food item.
 ##### Functionalities: Create, Read, Update and Delete operations (CRUD), Spring Security.
 
 
