@@ -74,6 +74,7 @@ update the food inventory.
 5 A user should view detail information of the food item.
 ##### Functionalities: Create, Read, Update and Delete operations (CRUD), Spring Security.
 
+
 ### Future Expansion
 #### Functionalities to be performed for the future expansion of project:
 1. A user should register on the website of the restaurant.
