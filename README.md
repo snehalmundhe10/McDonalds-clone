@@ -1,6 +1,6 @@
 # Online-Ordering-System-for-Fast-Food-Restaurant
-Implementation of McDonalds website in Spring MVC and Hibernate.
-Created user interface with JSP, JSTL and Bootstrap. 
+Implementation of McDonald's website in Spring MVC and Hibernate.
+Created user interfaces with JSP, JSTL and Bootstrap. 
 
 ### Snapshots of the Project 
 
@@ -63,4 +63,25 @@ After clicking on  'Our menu', guests can see the menu as :
 After clicking on icon the food item can be viewed as follows:
 
 ![alt text](https://github.com/snehalmundhe10/Online-Ordering-System-for-Fast-Food-Restaurant/blob/master/images/view.PNG "view")
+
+### USER ROLES & FUNCTIONALITIES
+#### Functionalities Performed:
+ An admin should login into its page and access the food inventory.
+ An admin should modify the food items inventory, admin should create, delete, view and
+update the food inventory.
+ An admin should logout from the admin page.
+ A user should see the food items list modified by the admin.
+ A user should view detail information of the food item.
+##### Functionalities: Create, Read, Update and Delete operations (CRUD), Spring Security.
+
+### Future Expansion
+#### Functionalities to be performed for the future expansion of project:
+ A user should register on the website of the restaurant.
+ A user should access the food items list.
+ A user should add the items to the food bag.
+ A user should remove items from the food bag.
+ A user should cancel the order.
+ A user should checkout from the checkout gateway.
+ A user should see the different locations of the same restaurant on the map.
+ A user should checkout through payment Gateway.
 
