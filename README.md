@@ -2,6 +2,14 @@
 Implementation of McDonald's website in Spring MVC and Hibernate.
 Created user interfaces with JSP, JSTL and Bootstrap. 
 
+### Technologies used:
+1. Used Bootstrap version 3.3.6 for the front-end development of the application.
+2. Used Spring, Hibernate and JPA to persist the models.
+3. Created login-control using Spring Security.
+4. Added CRUD functionality to the application.
+##### Technologies: Spring MVC, Hibernate, Spring Security, MySQL database.
+##### Tools: IntelliJ, MySQL workbench.
+
 ### Snapshots of the Project 
 
 The home page of this web application looks as follows:
