@@ -7,10 +7,8 @@ Created user interfaces with JSP, JSTL and Bootstrap.
 2. Used Spring, Hibernate and JPA to persist the models.
 3. Created login-control using Spring Security.
 4. Added CRUD functionality to the application.
-##### Technologies: 
-Spring MVC, Hibernate, Spring Security, MySQL database.
-##### Tools:
-IntelliJ, MySQL workbench.
+##### Technologies: Spring MVC, Hibernate, Spring Security, MySQL database.
+##### Tools:IntelliJ, MySQL workbench.
 
 ### Snapshots of the Project 
 
@@ -82,8 +80,7 @@ update the food inventory.
 3. An admin should logout from the admin page.
 4. A user should see the food items list modified by the admin.
 5. A user should view detail information of the food item.
-##### Functionalities: 
-Create, Read, Update and Delete operations (CRUD), Spring Security.
+##### Functionalities: Create, Read, Update and Delete operations (CRUD), Spring Security.
 
 
 ### Future Expansion
