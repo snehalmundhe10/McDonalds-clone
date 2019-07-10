@@ -44,4 +44,8 @@ After clicking on remove, the food item gets removed and food inventory will be 
 
 ![alt text](https://github.com/snehalmundhe10/Online-Ordering-System-for-Fast-Food-Restaurant/blob/master/images/remove.PNG "remove")
 
+Coming back to home page:
+
+![alt text](https://github.com/snehalmundhe10/Online-Ordering-System-for-Fast-Food-Restaurant/blob/master/images/home.PNG "home")
+
 
