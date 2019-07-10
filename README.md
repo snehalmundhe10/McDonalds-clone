@@ -44,6 +44,14 @@ After clicking on remove, the food item gets removed and food inventory will be 
 
 ![alt text](https://github.com/snehalmundhe10/Online-Ordering-System-for-Fast-Food-Restaurant/blob/master/images/remove.PNG "remove")
 
+After clicking on admin, 
+
+![alt text](https://github.com/snehalmundhe10/Online-Ordering-System-for-Fast-Food-Restaurant/blob/master/images/admin.PNG "admin")
+
+After clicking on logout the validation will work and page will appear as follows:
+
+![alt text](https://github.com/snehalmundhe10/Online-Ordering-System-for-Fast-Food-Restaurant/blob/master/images/logout.PNG "logout")
+
 Coming back to home page:
 
 ![alt text](https://github.com/snehalmundhe10/Online-Ordering-System-for-Fast-Food-Restaurant/blob/master/images/home.PNG "home")
