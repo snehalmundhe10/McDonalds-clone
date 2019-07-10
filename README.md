@@ -27,5 +27,8 @@ Created user interface with JSP, JSTL and Bootstrap.
 
 ![alt text](https://github.com/snehalmundhe10/Online-Ordering-System-for-Fast-Food-Restaurant/blob/master/images/update.PNG "update")
 
-![alt text](https://github.com/snehalmundhe10/Online-Ordering-System-for-Fast-Food-Restaurant/blob/master/images/view.PNG "remove")
+![alt text](https://github.com/snehalmundhe10/Online-Ordering-System-for-Fast-Food-Restaurant/blob/master/images/view.PNG "view")
+
+![alt text](https://github.com/snehalmundhe10/Online-Ordering-System-for-Fast-Food-Restaurant/blob/master/images/inventory.PNG "inventory")
+
 
