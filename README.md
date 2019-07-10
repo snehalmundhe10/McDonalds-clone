@@ -66,22 +66,22 @@ After clicking on icon the food item can be viewed as follows:
 
 ### USER ROLES & FUNCTIONALITIES
 #### Functionalities Performed:
- An admin should login into its page and access the food inventory.
- An admin should modify the food items inventory, admin should create, delete, view and
+1.An admin should login into its page and access the food inventory.
+2. An admin should modify the food items inventory, admin should create, delete, view and
 update the food inventory.
- An admin should logout from the admin page.
- A user should see the food items list modified by the admin.
- A user should view detail information of the food item.
+3. An admin should logout from the admin page.
+4. A user should see the food items list modified by the admin.
+5 A user should view detail information of the food item.
 ##### Functionalities: Create, Read, Update and Delete operations (CRUD), Spring Security.
 
 ### Future Expansion
 #### Functionalities to be performed for the future expansion of project:
- A user should register on the website of the restaurant.
- A user should access the food items list.
- A user should add the items to the food bag.
- A user should remove items from the food bag.
- A user should cancel the order.
- A user should checkout from the checkout gateway.
- A user should see the different locations of the same restaurant on the map.
- A user should checkout through payment Gateway.
+1. A user should register on the website of the restaurant.
+2. A user should access the food items list.
+3. A user should add the items to the food bag.
+4. A user should remove items from the food bag.
+5. A user should cancel the order.
+6. A user should checkout from the checkout gateway.
+7. A user should see the different locations of the same restaurant on the map.
+8. A user should checkout through payment Gateway.
 
