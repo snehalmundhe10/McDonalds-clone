@@ -48,4 +48,9 @@ Coming back to home page:
 
 ![alt text](https://github.com/snehalmundhe10/Online-Ordering-System-for-Fast-Food-Restaurant/blob/master/images/home.PNG "home")
 
+After clicking on  'Our menu', guests can see the menu as :
+
+![alt text](https://github.com/snehalmundhe10/Online-Ordering-System-for-Fast-Food-Restaurant/blob/master/images/foodItems.PNG "foodItems")
+
+
 
